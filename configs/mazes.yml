@@ -1,0 +1,14 @@
+# MODEL
+dec_stddev: 0.1
+cell_stoch_size: 20
+cell_deter_size: 200
+cell_embed_size: 200
+
+# DATASET
+dataset: mazes
+eval_seq_len: 300
+channels: 3
+
+# TRAINING
+lr: 0.0003
+num_epochs: 100

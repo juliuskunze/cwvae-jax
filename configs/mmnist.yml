@@ -1,0 +1,14 @@
+# MODEL
+dec_stddev: 1.0
+cell_stoch_size: 20
+cell_deter_size: 200
+cell_embed_size: 200
+
+# DATASET
+dataset: mmnist
+eval_seq_len: 1000
+channels: 1
+
+# TRAINING
+lr: 0.0003
+num_epochs: 300

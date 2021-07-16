@@ -1,0 +1,13 @@
+jax
+jaxlib
+flax
+tensorflow>=2.5.0
+tensorflow-datasets==4.2.0
+tensorflow-probability==0.13.0
+pyYAML
+numpy
+scikit-image==0.18.1
+imageio
+moviepy
+minerl-navigate
+wandb

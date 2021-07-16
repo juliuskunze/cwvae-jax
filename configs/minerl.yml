@@ -1,0 +1,14 @@
+# MODEL
+dec_stddev: 0.4
+cell_stoch_size: 100
+cell_deter_size: 800
+cell_embed_size: 800
+
+# DATASET
+dataset: minerl
+eval_seq_len: 500
+channels: 3
+
+# TRAINING
+lr: 0.0001
+num_epochs: 600
